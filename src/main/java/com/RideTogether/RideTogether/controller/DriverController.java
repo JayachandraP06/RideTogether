@@ -10,7 +10,7 @@ public class DriverController {
 	@GetMapping("/drivername")
 	public String getDriverName()
 	{
-		return "pj";
+		return "chitti";
 	}
 	
 
